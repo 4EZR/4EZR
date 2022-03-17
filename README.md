@@ -1,5 +1,6 @@
-### Hi there 👋
-
+(https://github.com/4EZR/4EZR/blob/main/Presentation1.gif)
+<h1 align="center">Hi 👋, I'm Juandreas Ezarfelix</h1>
+<h3 align="center">A computer science and mathematics undergraduate students from Indonesia</h3>
 <!--
 **4EZR/4EZR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
