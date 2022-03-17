@@ -14,7 +14,9 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4ezr&show_icons=true&locale=en" alt="4ezr" /></p>
-##🔭 Example of work
+
+## 🔭 Example of work
+
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/4ezrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4ezrx" height="30" width="40" /></a>
