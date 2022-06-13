@@ -19,8 +19,8 @@
 https://4ezr.github.io/Beaudei-hci/Homepage/Home
 
 ## Connect with me
-<p align="left">
-<a href="https://twitter.com/4ezrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4ezrx" height="30" width="40" /></a>
+<p align="center">
+
 <a href="https://linkedin.com/in/juandreas-ezarfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandreas ezarfelix" height="30" width="40" /></a>
 <a href="https://instagram.com/jeruanezar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeruanezar" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/467202759016579112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4EZR#6018" height="30" width="40" /></a>
