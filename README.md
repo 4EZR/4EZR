@@ -1,10 +1,9 @@
 ![MasterHead](https://github.com/4EZR/4EZR/blob/main/Presentation1.gif)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Juandreas Ezarfelix</h1>
+<h1 align="center">Hi, I'm Juandreas Ezarfelix</h1>
 <h3 align="center">A computer science and mathematics undergraduate students from Indonesia</h3>
 
 ## 🙋‍♂️ About Me
 - 🎓 I’m currently studying at Binus University, majoring in computer science and mathematics
-- 🌱 I’m currently learning mostly about DevOps Tools ( Docker & Kubernetes) 
 - 📫 How to reach me: juandreas.ezarfelix@gmail.com / juandreas.ezarfelix@binus.ac.id
 
 
