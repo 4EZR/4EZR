@@ -16,6 +16,7 @@
 
 ## 🔭 Example of work
 https://4ezr.github.io/Beaudei-hci/Homepage/Home
+https://cosmic-scone-3fd4e4.netlify.app/
 
 ## Connect with me
 <p align="center">
