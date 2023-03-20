@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/4EZR/4EZR/blob/main/Presentation1.gif)
+<!-- ![MasterHead](https://github.com/4EZR/4EZR/blob/main/Presentation1.gif) -->
 <h1 align="center">Hi, I'm Juandreas Ezarfelix</h1>
 <h3 align="center">A computer science and mathematics undergraduate students from Indonesia</h3>
 
